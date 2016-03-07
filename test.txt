@@ -1,0 +1,15 @@
+{
+"items": 
+[
+    {
+        "name": "command",
+        "index": "X",
+        "optional": "0"
+    },
+    {
+        "name": "status",
+        "index": "Y",
+        "optional": "1"
+    }
+]
+}
